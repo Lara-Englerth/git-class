@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1326.9037"
+   height="1225.7629"
+   viewBox="0 0 1326.9037 1225.7629"
+   version="1.1"
+   id="svg1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px" />
+  <defs
+     id="defs1">
+    <rect
+       x="300.22141"
+       y="584.50183"
+       width="496.82657"
+       height="239.1144"
+       id="rect8" />
+    <rect
+       x="439.7048"
+       y="495.49814"
+       width="274.98154"
+       height="163.39484"
+       id="rect7" />
+    <rect
+       x="325.46124"
+       y="474.24353"
+       width="499.4834"
+       height="217.85979"
+       id="rect5" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5"
+       x="-0.30922919"
+       y="-0.32245927"
+       width="1.6184584"
+       height="1.6449185">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="98.983985"
+         id="feGaussianBlur5" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(83.508789,47.641697)">
+    <rect
+       style="fill:#ffe8fa;fill-opacity:1;fill-rule:evenodd;stroke-width:0.995123"
+       id="rect1"
+       width="1080"
+       height="1080.0001"
+       x="2.3481152e-06"
+       y="1.3284136" />
+    <rect
+       style="fill:#0000ff;fill-rule:evenodd"
+       id="rect2"
+       width="6.6420665"
+       height="1.3284132"
+       x="1236.7528"
+       y="960.44281" />
+    <ellipse
+       style="opacity:1;fill:#ffbbf1;fill-opacity:1;stroke:#9c207f;stroke-width:5.45828;stroke-dasharray:none;stroke-opacity:0;filter:url(#filter5)"
+       id="path3"
+       cx="545.31366"
+       cy="565.23981"
+       rx="388.53174"
+       ry="372.59079" />
+    <text
+       xml:space="preserve"
+       id="text5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect5);opacity:1;fill:#ffbbf1;fill-opacity:1;stroke:#9c207f;stroke-width:5.4;stroke-dasharray:none;stroke-opacity:0"><tspan
+         x="325.46094"
+         y="485.16264"
+         id="tspan1">Lara</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:'Vladimir Script';-inkscape-font-specification:'Vladimir Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7);opacity:1;fill:#9a007a;fill-opacity:1;stroke:#9c207f;stroke-width:5.4;stroke-dasharray:none;stroke-opacity:0"
+       transform="matrix(2.1534144,0,0,1.8859679,-566.41411,-541.47615)"><tspan
+         x="439.70508"
+         y="571.70618"
+         id="tspan2">Lara</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.6667px;font-family:'Vladimir Script';-inkscape-font-specification:'Vladimir Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect8);opacity:1;fill:#9a007a;fill-opacity:1;stroke:#9c207f;stroke-width:5.4;stroke-dasharray:none;stroke-opacity:0"
+       transform="matrix(2.2241132,0,0,2.3787056,-392.06625,-850.06418)"><tspan
+         x="300.2207"
+         y="643.77497"
+         id="tspan3">Englerth</tspan></text>
+  </g>
+</svg>
